@@ -34,10 +34,13 @@ An AI-powered conversational chatbot that acts as a virtual recruiter, built usi
 
 ---
 
-## 📦 Installation
+##Future Improvements
+--Resume upload and LLM-based summarization
 
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/your-username/talent-assistant-chatbot.git
-   cd talent-assistant-chatbot
+--Admin dashboard to view saved candidate data
+
+--Topic-specific technical question generation
+
+--Deploy on Streamlit Cloud or Hugging Face Spaces
+
 
