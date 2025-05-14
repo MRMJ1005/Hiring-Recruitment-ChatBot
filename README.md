@@ -34,7 +34,7 @@ An AI-powered conversational chatbot that acts as a virtual recruiter, built usi
 
 ---
 
-##Future Improvements
+## Future Improvements
 --Resume upload and LLM-based summarization
 
 --Admin dashboard to view saved candidate data
